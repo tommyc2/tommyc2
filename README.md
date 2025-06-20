@@ -1,7 +1,6 @@
 # Hi 👋, I'm Tommy
 
-I am a Final Year Computer Science student at SETU Waterford.  Passionate about building cool things and learning new technologies.
-
+I am a Software Engineer!
 ## 📊  GitHub Stats
 
 Here's an overview of my GitHub activity:
